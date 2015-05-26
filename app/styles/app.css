@@ -1,0 +1,15 @@
+body {
+  display: block;
+  text-align: center;
+  color: #333;
+  background: #FFF;
+  width: 100%;
+}
+
+table {
+  width: 100%;
+}
+
+nav {
+  position: relative;
+}
